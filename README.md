@@ -1,2 +1,2 @@
-# emoji-emotions
+# know-emoji-emotions
 Created with CodeSandbox
