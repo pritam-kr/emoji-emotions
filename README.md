@@ -1,4 +1,4 @@
-# [Know emoji's emotions](https://csb-j1szl.netlify.app/)
+# [Know emoji's emotions](https://csb-t1k4t.netlify.app/)
 
  This app is my first react app using [codeSandBox](https://codesandbox.io/s/github/pritam-kr/emoji-emotions). So. This app will help you to understand your emoji emotions.
  
