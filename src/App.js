@@ -69,6 +69,55 @@ export default function App() {
             })}
           </div>
         </div>
+        <footer>
+          <ul>
+            <li>
+              <a
+                href="https://neogcamp-portfolio-of-pritam.netlify.app/index.html"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fas fa-globe-asia"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/pritam-kr/emoji-emotions"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fab fa-github"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/pritam_kr30/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/pritam-kumar-0ab3431bb/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://twitter.com/Pritamkr_"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+        </footer>
       </div>
     </>
   );
